@@ -1,0 +1,11 @@
+{
+  "title": "Rajat",
+  "name": "Rajat Gupta",
+  "role": "Senior Technical Lead",
+  "description": "I'm a software developer who loves to build things for the web.",
+  "ogImage": "/open-graph.png",
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/rajatgupta10/",
+    "mail": "softengnrrajat007@gmail.com"
+  }
+}
